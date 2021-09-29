@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/crudApp/static/css/main.86a6862c.chunk.css",
+    "main.js": "/crudApp/static/js/main.b9e10603.chunk.js",
+    "main.js.map": "/crudApp/static/js/main.b9e10603.chunk.js.map",
+    "runtime-main.js": "/crudApp/static/js/runtime-main.e9a67bb3.js",
+    "runtime-main.js.map": "/crudApp/static/js/runtime-main.e9a67bb3.js.map",
+    "static/js/2.6f81c8b8.chunk.js": "/crudApp/static/js/2.6f81c8b8.chunk.js",
+    "static/js/2.6f81c8b8.chunk.js.map": "/crudApp/static/js/2.6f81c8b8.chunk.js.map",
+    "static/js/3.f2b15615.chunk.js": "/crudApp/static/js/3.f2b15615.chunk.js",
+    "static/js/3.f2b15615.chunk.js.map": "/crudApp/static/js/3.f2b15615.chunk.js.map",
+    "index.html": "/crudApp/index.html",
+    "static/css/main.86a6862c.chunk.css.map": "/crudApp/static/css/main.86a6862c.chunk.css.map",
+    "static/js/2.6f81c8b8.chunk.js.LICENSE.txt": "/crudApp/static/js/2.6f81c8b8.chunk.js.LICENSE.txt",
+    "static/media/BAckGround.a4cfd6cb.mp4": "/crudApp/static/media/BAckGround.a4cfd6cb.mp4"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e9a67bb3.js",
+    "static/js/2.6f81c8b8.chunk.js",
+    "static/css/main.86a6862c.chunk.css",
+    "static/js/main.b9e10603.chunk.js"
+  ]
+}
