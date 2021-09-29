@@ -1,0 +1,26 @@
+.DivData{
+    display: flex;
+    justify-content: space-between;
+    margin: 15px 0px 15px 0px;
+
+    box-sizing: border-box;
+    padding: 10px;
+  }
+
+.DivData span:first-child {
+    width:30%
+}
+
+  .DivData span:nth-child(2){
+      width:31%;
+  }
+
+.male{
+  background-color: #5F85B9;
+}
+
+.female{
+ background-color: #F8B126;
+}
+
+

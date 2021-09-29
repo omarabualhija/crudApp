@@ -1,0 +1,225 @@
+.backDrop{
+    position: absolute;
+    width: 100%;
+    height: 100vh;
+    top: 0;
+    background: #e4d4d4c4;;
+    z-index: 1000;
+    top:0
+    }
+
+
+.BoxAdd{
+    position: absolute;
+    background-color: #000000fc;
+    width: 25%;
+    height: 35%;
+    z-index: 1500;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    border-radius: 35px;
+ color:white;
+
+
+}
+
+
+
+.Exit{
+    text-align: end;
+    height: 15%;
+    
+}
+
+.Exit span{
+    display: inline-block;
+    padding-right: 10px;
+    width: 25px;
+    height: 25px;
+    background-color: #ffffff;
+    border-radius: 15px;
+    box-sizing: border-box;
+    cursor: pointer;
+    color: black;
+}
+
+form{
+    box-sizing: border-box;
+    height: 85%;
+    /* width: 100%; */
+    display: flex;
+    flex-direction: column;
+    /* column-gap: 36%; */
+    row-gap: 10%;
+}
+
+
+form div{
+    box-sizing: border-box;
+    padding-left: 20px;
+    width: 100%;
+
+}
+
+form div [type="text"]{
+    box-sizing: border-box;
+ width: 55%;
+    margin-left: 20px;
+    box-sizing: border-box;
+    width: 55%;
+    margin-left: 20px;
+    outline: none;
+    border: none;
+    height: 25px;
+  
+    
+}
+
+form div [type="select"]{
+    box-sizing: border-box;
+    margin-left: 20px;
+    width: 55%;
+    height: 100%;
+    text-align: center;
+   
+}
+
+form div select{
+   
+    box-sizing: border-box;
+    margin-left: 20px;
+    width: 50%;
+    text-align: center;
+    height: 25px;
+
+    }
+
+    [type="submit"]{
+        left: 28%;
+        position: relative;
+        width: 30%;
+    }
+    
+
+    @media (max-width:208px){
+        :root{
+            font-size: 10px;
+        }
+
+        .BoxAdd {
+           
+            width: 95%;
+    }
+
+    form div {
+        box-sizing: border-box;
+        padding-left: 8px;
+    }  
+    form div [type="text"] {
+        font-size:10px;
+        margin-left: 8px;   
+}
+
+form div select {
+  
+    margin-left: 8px;
+}
+
+
+}
+
+@media (min-width: 209px) and (max-width:320px){
+    :root{
+        font-size: 10px;
+    }
+
+    .BoxAdd {
+       
+        width: 86%;
+}
+
+form div {
+    box-sizing: border-box;
+    padding-left: 20px;
+}  
+form div [type="text"] {
+    font-size:10px;
+    margin-left: 20px;   
+}
+
+form div select {
+
+margin-left: 20px;
+}
+
+
+}
+
+@media (min-width: 321px) and (max-width:480px){
+    :root{
+        font-size: 10px;
+    }
+
+    .BoxAdd {
+       
+        width: 60%;
+}
+
+form div {
+    box-sizing: border-box;
+    padding-left: 20px;
+}  
+
+
+
+
+
+}
+
+@media (min-width: 481px) and (max-width:768px){
+    :root{
+        font-size: 15px;
+    }
+
+    .BoxAdd {
+       
+        width: 40%;
+}
+
+form div {
+    box-sizing: border-box;
+    padding-left: 20px;
+}  
+form div [type="text"] {
+    font-size:10px;
+    margin-left: 20px;   
+}
+
+form div select {
+
+margin-left: 20px;
+}
+
+
+}
+
+@media (min-width: 769px) and (max-width:1024px){
+    :root{
+        font-size: 15px;
+    }
+
+    .BoxAdd {
+       
+        width: 40%;
+}
+
+
+
+form div select {
+
+margin-left: 20px;
+}
+
+
+}

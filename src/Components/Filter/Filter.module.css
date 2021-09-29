@@ -1,0 +1,22 @@
+
+.BoxDiv{
+    display: flex;
+    justify-content: space-between;
+}
+
+
+.FilterBox{
+    width: 50%;
+    /* height: 64%; */
+    outline: none;
+    border: none;
+    border-radius: -9%;
+    background-color: white;
+    height: 25px;
+}
+
+
+.btn{
+    COLOR: BLACK;
+    BACKGROUND-COLOR: white;
+}
