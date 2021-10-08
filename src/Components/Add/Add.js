@@ -28,7 +28,7 @@ const backdrop=(
       <select  id="gender" onChange={inputHandeler} value={input.gender} >
           <option value="">--youre gender--</option>
           <option value="male">male</option>
-          <option value="femele">female</option>
+          <option value="female">female</option>
       </select>
       {toggleValidation && (<div>please add your Gender</div>)}
       </div>
