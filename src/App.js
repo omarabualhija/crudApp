@@ -12,7 +12,7 @@ function App() {
    {id:2,name:"Huda",gender:"female"},
    {id:3,name:"Ahmed",gender:"male"},
    {id:4,name:"Saja",gender:"female"},
-   {id:5,name:"karam",gender:"female"},
+   {id:5,name:"karam",gender:"male"},
 
    
   ]
